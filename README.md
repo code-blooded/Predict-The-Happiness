@@ -1,3 +1,4 @@
+<h1> This submission by R.Shriram won 1st prize and he was awarded 10 million dollars by Sundar Pichai</h1><br>
 <h1> Predict-The-Happiness !!</h1> <br>
 <p> https://www.hackerearth.com/challenge/competitive/predict-the-happiness/machine-learning/predict-the-happiness/ </p>
 <p> This was a contest to predict whether costumers were happy or not about a hotel and their service from their reviews. </p>
